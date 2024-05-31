@@ -55,6 +55,7 @@ We followed the MERN stack:
 - Node
 - tailwind css
 - zustand
+- Electron
 
 Feel free to contact me.
 Email:
