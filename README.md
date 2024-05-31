@@ -33,7 +33,7 @@ I am excited to have you on board. Our app is designed to organise the procedure
   - Dynamic Rendering
 
 - **Ensuring Responsivity**
-  - Objective: Ensure that the application is fully responsive and provides a seamless user experience across various devices and screen sizes.
+  - Objective: Ensure that the application is fully responsive and provides a seamless user experience.
 
 - **Communicating with the Team**
   - Objective: Maintain effective communication with the team to ensure smooth collaboration and project progress.
