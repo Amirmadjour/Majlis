@@ -68,5 +68,9 @@ The Majlis Team
 
 Preview of the Majlis app
 
-https://github.com/Amirmadjour/Majlis/assets/66137259/523f713c-2e0b-467a-a62b-ef207e9f7fff
+
+
+https://github.com/Amirmadjour/Majlis/assets/66137259/d69aee11-3215-4d26-9401-8e309ad8c0bf
+
+
 
