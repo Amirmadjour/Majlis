@@ -5,10 +5,11 @@
 I am excited to have you on board. Our app is designed to organise the procedure of the Disciplinary Council. As we all know The Disciplinary Council is committed to maintaining the highest standards of conduct and integrity within our universities and colleges.
 
 ## Key Features:
-- Organized Archives: Categorize and organize your documents for efficient retrieval and management.
-- Easy Access: Retrieve archived documents quickly with our intuitive search.
-- PDF Generation: Easily convert your documents into high-quality PDF files for easy sharing and storage.
-- Email Notifications: Receive automated email alerts for important updates, document uploads, and other key actions.
+- **Organized Archives**: Categorize and organize your documents for efficient retrieval and management.
+- **Easy Access**: Retrieve archived documents quickly with our intuitive search.
+- **PDF Generation**: Easily convert your documents into high-quality PDF files for easy sharing and storage.
+- **Email Notifications**: Receive automated email alerts for important updates, document uploads, and other key actions.
+- **Personalized Experience**: Reduce eye strain and personalize your interface with dark and light theme options.
 
 ## App Structure:
 - Authentification system.
