@@ -21,10 +21,30 @@ I am excited to have you on board. Our app is designed to organise the procedure
 - I was the frontend developer.
 
 ## My responsiblity:
-- Create reusable components using react and tailwind css.
-- Fetch data and display it.
-- Ensure responsivity.
-- Communicate with the team.
+- **Creating Reusable Components using React and Tailwind CSS**
+Objective: Develop a set of reusable UI components to ensure consistency and efficiency across the application.
+
+**Fetching Data and Displaying It**
+Objective: Implement functionality to retrieve data from external sources and display it within the application in a user-friendly manner.
+
+- API Integration
+- State Management
+- UI Components
+- Dynamic Rendering
+
+**Ensuring Responsivity**
+Objective: Ensure that the application is fully responsive and provides a seamless user experience across various devices and screen sizes.
+
+**Communicating with the Team**
+Objective: Maintain effective communication with the team to ensure smooth collaboration and project progress.
+
+**Regular Updates**
+- Meetings
+- Status Reports
+- Collaboration
+- Code Reviews
+- Knowledge Sharing
+- Feedback
 
 ## Teck Stack
 We followed the MERN stack:
