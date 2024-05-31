@@ -46,14 +46,15 @@ I am excited to have you on board. Our app is designed to organise the procedure
   - Knowledge Sharing
   - Feedback
 
-## Teck Stack
+## Tecknologies:
 We followed the MERN stack:
 
 - Mysql
 - Express
 - React
 - Node
-also I used tailwind css and zustand.
+- tailwind css
+- zustand
 
 Feel free to contact me.
 Email:
