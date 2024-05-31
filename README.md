@@ -22,29 +22,29 @@ I am excited to have you on board. Our app is designed to organise the procedure
 
 ## My responsiblity:
 - **Creating Reusable Components using React and Tailwind CSS**
-Objective: Develop a set of reusable UI components to ensure consistency and efficiency across the application.
+  - Objective: Develop a set of reusable UI components to ensure consistency and efficiency across the application.
 
-**Fetching Data and Displaying It**
-Objective: Implement functionality to retrieve data from external sources and display it within the application in a user-friendly manner.
+- **Fetching Data and Displaying It**
+  - Objective: Implement functionality to retrieve data from external sources and display it within the application in a user-friendly manner.
 
-- API Integration
-- State Management
-- UI Components
-- Dynamic Rendering
+  - API Integration
+  - State Management
+  - UI Components
+  - Dynamic Rendering
 
-**Ensuring Responsivity**
-Objective: Ensure that the application is fully responsive and provides a seamless user experience across various devices and screen sizes.
+- **Ensuring Responsivity**
+  - Objective: Ensure that the application is fully responsive and provides a seamless user experience across various devices and screen sizes.
 
-**Communicating with the Team**
-Objective: Maintain effective communication with the team to ensure smooth collaboration and project progress.
+- **Communicating with the Team**
+  - Objective: Maintain effective communication with the team to ensure smooth collaboration and project progress.
 
-**Regular Updates**
-- Meetings
-- Status Reports
-- Collaboration
-- Code Reviews
-- Knowledge Sharing
-- Feedback
+- **Regular Updates**
+  - Meetings
+  - Status Reports
+  - Collaboration
+  - Code Reviews
+  - Knowledge Sharing
+  - Feedback
 
 ## Teck Stack
 We followed the MERN stack:
